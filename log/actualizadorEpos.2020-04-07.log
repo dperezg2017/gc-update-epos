@@ -1,0 +1,265 @@
+2020-04-07 19:35:00 INFO  Main:36 - Inicio del Actualizador - ePos
+2020-04-07 19:35:02 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:35:02 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: Asistente de Actualizaci
+2020-04-07 19:35:02 ERROR Main:69 - Error:java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+2020-04-07 19:35:02 ERROR Main:70 - Error Cause:null
+2020-04-07 19:35:02 ERROR Main:71 - Error Message:String index out of range: -1
+2020-04-07 19:35:12 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:35:12 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: Asistente de Actualizaci
+2020-04-07 19:35:55 INFO  Main:36 - Inicio del Actualizador - ePos
+2020-04-07 19:35:56 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:35:56 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:35:56 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:36:01 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:36:01 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:36:01 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:36:01 INFO  InicioAsistenteActualizacionController:116 - Versión del Instalador: 2.0.0.1
+2020-04-07 19:36:02 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:36:02 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:36:02 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:36:02 INFO  InicioAsistenteActualizacionController:117 - Versión del Actualizador: 2.0.13.8
+2020-04-07 19:36:02 INFO  RelacionComponenteController:83 - ubicacion Actualizador PrintManager: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Plugin_Rep_Impresa
+2020-04-07 19:36:02 INFO  RelacionComponenteController:84 - ubicacion Actualizador Servidor POS: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor
+2020-04-07 19:36:02 INFO  RelacionComponenteController:85 - ubicacion Actualizador Base de Datos: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_BD
+2020-04-07 19:36:02 INFO  RelacionComponenteController:86 - ubicacion Actualizador Cliente: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Cliente
+2020-04-07 19:36:02 INFO  RelacionComponenteController:93 - ubicacion Instalador PrintManager: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\REPRESENTACION-IMPRESA
+2020-04-07 19:36:02 INFO  RelacionComponenteController:94 - ubicacion Instalador Servidor POS: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\SERVIDOR
+2020-04-07 19:36:02 INFO  RelacionComponenteController:95 - ubicacion Instalador Base de Datos: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\DATABASE
+2020-04-07 19:36:02 INFO  RelacionComponenteController:96 - ubicacion Instalador Cliente: No existe SrvWinFE_POS_Modulo_Cliente
+2020-04-07 19:36:03 INFO  RelacionComponenteController:103 - Estado Servicio PrintManager: Iniciado
+2020-04-07 19:36:03 INFO  RelacionComponenteController:104 - Estado Servicio Servidor POS: Detenido
+2020-04-07 19:36:03 INFO  RelacionComponenteController:105 - Estado Servicio Base de Datos: Iniciado
+2020-04-07 19:36:03 INFO  RelacionComponenteController:106 - Estado Servicio Cliente: No Existe
+2020-04-07 19:41:16 INFO  Main:36 - Inicio del Actualizador - ePos
+2020-04-07 19:41:17 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:41:17 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:41:17 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:41:18 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:41:18 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:41:18 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:41:19 INFO  InicioAsistenteActualizacionController:116 - Versión del Instalador: 2.0.0.1
+2020-04-07 19:41:19 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:41:19 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:41:19 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:41:19 INFO  InicioAsistenteActualizacionController:117 - Versión del Actualizador: 2.0.13.8
+2020-04-07 19:41:19 INFO  RelacionComponenteController:83 - ubicacion Actualizador PrintManager: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Plugin_Rep_Impresa
+2020-04-07 19:41:19 INFO  RelacionComponenteController:84 - ubicacion Actualizador Servidor POS: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor
+2020-04-07 19:41:19 INFO  RelacionComponenteController:85 - ubicacion Actualizador Base de Datos: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_BD
+2020-04-07 19:41:19 INFO  RelacionComponenteController:86 - ubicacion Actualizador Cliente: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Cliente
+2020-04-07 19:41:20 INFO  RelacionComponenteController:93 - ubicacion Instalador PrintManager: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\REPRESENTACION-IMPRESA
+2020-04-07 19:41:20 INFO  RelacionComponenteController:94 - ubicacion Instalador Servidor POS: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\SERVIDOR
+2020-04-07 19:41:20 INFO  RelacionComponenteController:95 - ubicacion Instalador Base de Datos: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\DATABASE
+2020-04-07 19:41:20 INFO  RelacionComponenteController:96 - ubicacion Instalador Cliente: No existe SrvWinFE_POS_Modulo_Cliente
+2020-04-07 19:41:20 INFO  RelacionComponenteController:103 - Estado Servicio PrintManager: Iniciado
+2020-04-07 19:41:20 INFO  RelacionComponenteController:104 - Estado Servicio Servidor POS: Detenido
+2020-04-07 19:41:20 INFO  RelacionComponenteController:105 - Estado Servicio Base de Datos: Iniciado
+2020-04-07 19:41:20 INFO  RelacionComponenteController:106 - Estado Servicio Cliente: No Existe
+2020-04-07 19:42:36 INFO  Main:36 - Inicio del Actualizador - ePos
+2020-04-07 19:42:37 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:42:37 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:42:37 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:42:38 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:42:38 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:42:38 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:42:39 INFO  InicioAsistenteActualizacionController:116 - Versión del Instalador: 2.0.0.1
+2020-04-07 19:42:39 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:42:39 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:42:39 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:42:39 INFO  InicioAsistenteActualizacionController:117 - Versión del Actualizador: 2.0.13.8
+2020-04-07 19:42:39 INFO  RelacionComponenteController:83 - ubicacion Actualizador PrintManager: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Plugin_Rep_Impresa
+2020-04-07 19:42:39 INFO  RelacionComponenteController:84 - ubicacion Actualizador Servidor POS: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor
+2020-04-07 19:42:39 INFO  RelacionComponenteController:85 - ubicacion Actualizador Base de Datos: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_BD
+2020-04-07 19:42:39 INFO  RelacionComponenteController:86 - ubicacion Actualizador Cliente: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Cliente
+2020-04-07 19:42:40 INFO  RelacionComponenteController:93 - ubicacion Instalador PrintManager: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\REPRESENTACION-IMPRESA
+2020-04-07 19:42:40 INFO  RelacionComponenteController:94 - ubicacion Instalador Servidor POS: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\SERVIDOR
+2020-04-07 19:42:40 INFO  RelacionComponenteController:95 - ubicacion Instalador Base de Datos: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\DATABASE
+2020-04-07 19:42:40 INFO  RelacionComponenteController:96 - ubicacion Instalador Cliente: No existe SrvWinFE_POS_Modulo_Cliente
+2020-04-07 19:42:40 INFO  RelacionComponenteController:103 - Estado Servicio PrintManager: Iniciado
+2020-04-07 19:42:40 INFO  RelacionComponenteController:104 - Estado Servicio Servidor POS: Detenido
+2020-04-07 19:42:40 INFO  RelacionComponenteController:105 - Estado Servicio Base de Datos: Iniciado
+2020-04-07 19:42:40 INFO  RelacionComponenteController:106 - Estado Servicio Cliente: No Existe
+2020-04-07 19:43:36 INFO  Main:36 - Inicio del Actualizador - ePos
+2020-04-07 19:43:37 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:43:37 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:43:37 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:43:39 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:43:39 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:43:39 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:43:40 INFO  InicioAsistenteActualizacionController:116 - Versión del Instalador: 2.0.0.1
+2020-04-07 19:43:40 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:43:40 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:43:40 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:43:40 INFO  InicioAsistenteActualizacionController:117 - Versión del Actualizador: 2.0.13.8
+2020-04-07 19:43:40 INFO  RelacionComponenteController:83 - ubicacion Actualizador PrintManager: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Plugin_Rep_Impresa
+2020-04-07 19:43:40 INFO  RelacionComponenteController:84 - ubicacion Actualizador Servidor POS: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor
+2020-04-07 19:43:40 INFO  RelacionComponenteController:85 - ubicacion Actualizador Base de Datos: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_BD
+2020-04-07 19:43:40 INFO  RelacionComponenteController:86 - ubicacion Actualizador Cliente: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Cliente
+2020-04-07 19:43:41 INFO  RelacionComponenteController:93 - ubicacion Instalador PrintManager: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\REPRESENTACION-IMPRESA
+2020-04-07 19:43:41 INFO  RelacionComponenteController:94 - ubicacion Instalador Servidor POS: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\SERVIDOR
+2020-04-07 19:43:41 INFO  RelacionComponenteController:95 - ubicacion Instalador Base de Datos: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\DATABASE
+2020-04-07 19:43:41 INFO  RelacionComponenteController:96 - ubicacion Instalador Cliente: No existe SrvWinFE_POS_Modulo_Cliente
+2020-04-07 19:43:41 INFO  RelacionComponenteController:103 - Estado Servicio PrintManager: Iniciado
+2020-04-07 19:43:41 INFO  RelacionComponenteController:104 - Estado Servicio Servidor POS: Detenido
+2020-04-07 19:43:41 INFO  RelacionComponenteController:105 - Estado Servicio Base de Datos: Iniciado
+2020-04-07 19:43:41 INFO  RelacionComponenteController:106 - Estado Servicio Cliente: No Existe
+2020-04-07 19:47:09 INFO  Main:36 - Inicio del Actualizador - ePos
+2020-04-07 19:47:10 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:47:10 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:47:10 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:47:12 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:47:12 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:47:12 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:47:12 INFO  InicioAsistenteActualizacionController:116 - Versión del Instalador: 2.0.0.1
+2020-04-07 19:47:12 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:47:12 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:47:12 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:47:12 INFO  InicioAsistenteActualizacionController:117 - Versión del Actualizador: 2.0.13.8
+2020-04-07 19:47:13 INFO  RelacionComponenteController:83 - ubicacion Actualizador PrintManager: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Plugin_Rep_Impresa
+2020-04-07 19:47:13 INFO  RelacionComponenteController:84 - ubicacion Actualizador Servidor POS: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor
+2020-04-07 19:47:13 INFO  RelacionComponenteController:85 - ubicacion Actualizador Base de Datos: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_BD
+2020-04-07 19:47:13 INFO  RelacionComponenteController:86 - ubicacion Actualizador Cliente: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Cliente
+2020-04-07 19:47:13 INFO  RelacionComponenteController:93 - ubicacion Instalador PrintManager: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\REPRESENTACION-IMPRESA
+2020-04-07 19:47:13 INFO  RelacionComponenteController:94 - ubicacion Instalador Servidor POS: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\SERVIDOR
+2020-04-07 19:47:13 INFO  RelacionComponenteController:95 - ubicacion Instalador Base de Datos: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\DATABASE
+2020-04-07 19:47:13 INFO  RelacionComponenteController:96 - ubicacion Instalador Cliente: No existe SrvWinFE_POS_Modulo_Cliente
+2020-04-07 19:47:13 INFO  RelacionComponenteController:103 - Estado Servicio PrintManager: Iniciado
+2020-04-07 19:47:13 INFO  RelacionComponenteController:104 - Estado Servicio Servidor POS: Detenido
+2020-04-07 19:47:13 INFO  RelacionComponenteController:105 - Estado Servicio Base de Datos: Iniciado
+2020-04-07 19:47:13 INFO  RelacionComponenteController:106 - Estado Servicio Cliente: No Existe
+2020-04-07 19:48:55 INFO  Main:36 - Inicio del Actualizador - ePos
+2020-04-07 19:48:56 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:48:56 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:48:56 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:48:58 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:48:58 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:48:58 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:48:58 INFO  InicioAsistenteActualizacionController:116 - Versión del Instalador: 2.0.0.1
+2020-04-07 19:48:58 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:48:58 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:48:58 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:48:58 INFO  InicioAsistenteActualizacionController:117 - Versión del Actualizador: 2.0.13.8
+2020-04-07 19:48:59 INFO  RelacionComponenteController:83 - ubicacion Actualizador PrintManager: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Plugin_Rep_Impresa
+2020-04-07 19:48:59 INFO  RelacionComponenteController:84 - ubicacion Actualizador Servidor POS: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor
+2020-04-07 19:48:59 INFO  RelacionComponenteController:85 - ubicacion Actualizador Base de Datos: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_BD
+2020-04-07 19:48:59 INFO  RelacionComponenteController:86 - ubicacion Actualizador Cliente: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Cliente
+2020-04-07 19:48:59 INFO  RelacionComponenteController:93 - ubicacion Instalador PrintManager: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\REPRESENTACION-IMPRESA
+2020-04-07 19:48:59 INFO  RelacionComponenteController:94 - ubicacion Instalador Servidor POS: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\SERVIDOR
+2020-04-07 19:48:59 INFO  RelacionComponenteController:95 - ubicacion Instalador Base de Datos: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\DATABASE
+2020-04-07 19:48:59 INFO  RelacionComponenteController:96 - ubicacion Instalador Cliente: No existe SrvWinFE_POS_Modulo_Cliente
+2020-04-07 19:48:59 INFO  RelacionComponenteController:103 - Estado Servicio PrintManager: Iniciado
+2020-04-07 19:48:59 INFO  RelacionComponenteController:104 - Estado Servicio Servidor POS: Detenido
+2020-04-07 19:48:59 INFO  RelacionComponenteController:105 - Estado Servicio Base de Datos: Iniciado
+2020-04-07 19:48:59 INFO  RelacionComponenteController:106 - Estado Servicio Cliente: No Existe
+2020-04-07 19:49:09 INFO  ProcesoActualizacionController:567 - Proceso de Actualizacion:  
+2020-04-07 19:49:11 INFO  ProcesoActualizacionController:215 - [Fase 1] Estado de Servicio: Detenido(-1) - PrintManager 
+2020-04-07 19:49:11 INFO  ProcesoActualizacionController:241 - [Fase 1] Estado de Servicio: Detenido(-1) - Servidor POS 
+2020-04-07 19:49:14 INFO  ProcesoActualizacionController:267 - [Fase 1] Estado de Servicio: Detenido(-1) - Base de Datos
+2020-04-07 19:49:14 INFO  ProcesoActualizacionController:297 - [Fase 1] Estado de Servicio: No Existe(-2) - Cliente
+2020-04-07 19:49:15 INFO  ProcesoActualizacionController:318 - [Fase 2] Estado de Backup: Terminado - PrintManager
+2020-04-07 19:49:15 INFO  ProcesoActualizacionController:339 - [Fase 2] Estado de Backup: Terminado - Servidor POS
+2020-04-07 19:49:15 INFO  ProcesoActualizacionController:360 - [Fase 2] Estado de Backup: Terminado - Base de Datos
+2020-04-07 19:49:15 INFO  ProcesoActualizacionController:377 - [Fase 2] Estado de Backup: Sin Acción - Cliente
+2020-04-07 19:49:15 INFO  ProcesoActualizacionController:403 - [Fase 3] Estado de actualización: Terminado - PrintManager
+2020-04-07 19:49:15 INFO  ProcesoActualizacionController:424 - [Fase 3] Estado de actualización: Terminado - Servidor POS
+2020-04-07 19:49:15 INFO  ProcesoActualizacionController:445 - [Fase 3] Estado de actualización: Terminado - Base de Datos
+2020-04-07 19:49:15 INFO  ProcesoActualizacionController:462 - [Fase 3] Estado de actualización: Sin Acción - Cliente
+2020-04-07 19:49:26 INFO  ProcesoActualizacionController:488 - [Fase 4] Estado de Servicio: Iniciado - PrintManager
+2020-04-07 19:49:26 INFO  ProcesoActualizacionController:509 - [Fase 4] Estado de Servicio: Iniciado - Servidor POS
+2020-04-07 19:49:27 INFO  ProcesoActualizacionController:530 - [Fase 4] Estado de Servicio: Iniciado - Base de Datos
+2020-04-07 19:49:27 INFO  ProcesoActualizacionController:547 - [Fase 4] Estado de Servicio: Sin Acción - Cliente
+2020-04-07 19:50:04 INFO  Main:36 - Inicio del Actualizador - ePos
+2020-04-07 19:50:05 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:50:05 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:50:05 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:50:07 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:50:07 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:50:07 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:50:07 INFO  InicioAsistenteActualizacionController:116 - Versión del Instalador: 2.0.0.1
+2020-04-07 19:50:07 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:50:07 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:50:07 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:50:07 INFO  InicioAsistenteActualizacionController:117 - Versión del Actualizador: 2.0.13.8
+2020-04-07 19:50:08 INFO  RelacionComponenteController:83 - ubicacion Actualizador PrintManager: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Plugin_Rep_Impresa
+2020-04-07 19:50:08 INFO  RelacionComponenteController:84 - ubicacion Actualizador Servidor POS: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor
+2020-04-07 19:50:08 INFO  RelacionComponenteController:85 - ubicacion Actualizador Base de Datos: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_BD
+2020-04-07 19:50:08 INFO  RelacionComponenteController:86 - ubicacion Actualizador Cliente: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Cliente
+2020-04-07 19:50:08 INFO  RelacionComponenteController:93 - ubicacion Instalador PrintManager: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\REPRESENTACION-IMPRESA
+2020-04-07 19:50:08 INFO  RelacionComponenteController:94 - ubicacion Instalador Servidor POS: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\SERVIDOR
+2020-04-07 19:50:08 INFO  RelacionComponenteController:95 - ubicacion Instalador Base de Datos: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\DATABASE
+2020-04-07 19:50:08 INFO  RelacionComponenteController:96 - ubicacion Instalador Cliente: No existe SrvWinFE_POS_Modulo_Cliente
+2020-04-07 19:50:08 INFO  RelacionComponenteController:103 - Estado Servicio PrintManager: Iniciado
+2020-04-07 19:50:08 INFO  RelacionComponenteController:104 - Estado Servicio Servidor POS: Detenido
+2020-04-07 19:50:08 INFO  RelacionComponenteController:105 - Estado Servicio Base de Datos: Iniciado
+2020-04-07 19:50:08 INFO  RelacionComponenteController:106 - Estado Servicio Cliente: No Existe
+2020-04-07 19:50:15 INFO  ProcesoActualizacionController:567 - Proceso de Actualizacion:  
+2020-04-07 19:50:18 INFO  ProcesoActualizacionController:215 - [Fase 1] Estado de Servicio: Detenido(-1) - PrintManager 
+2020-04-07 19:50:18 INFO  ProcesoActualizacionController:241 - [Fase 1] Estado de Servicio: Detenido(-1) - Servidor POS 
+2020-04-07 19:50:21 INFO  ProcesoActualizacionController:267 - [Fase 1] Estado de Servicio: Detenido(-1) - Base de Datos
+2020-04-07 19:50:21 INFO  ProcesoActualizacionController:297 - [Fase 1] Estado de Servicio: No Existe(-2) - Cliente
+2020-04-07 19:50:21 INFO  ProcesoActualizacionController:318 - [Fase 2] Estado de Backup: Terminado - PrintManager
+2020-04-07 19:50:22 INFO  ProcesoActualizacionController:339 - [Fase 2] Estado de Backup: Terminado - Servidor POS
+2020-04-07 19:50:22 INFO  ProcesoActualizacionController:360 - [Fase 2] Estado de Backup: Terminado - Base de Datos
+2020-04-07 19:50:22 INFO  ProcesoActualizacionController:377 - [Fase 2] Estado de Backup: Sin Acción - Cliente
+2020-04-07 19:50:22 INFO  ProcesoActualizacionController:403 - [Fase 3] Estado de actualización: Terminado - PrintManager
+2020-04-07 19:50:22 INFO  ProcesoActualizacionController:424 - [Fase 3] Estado de actualización: Terminado - Servidor POS
+2020-04-07 19:50:22 INFO  ProcesoActualizacionController:445 - [Fase 3] Estado de actualización: Terminado - Base de Datos
+2020-04-07 19:50:22 INFO  ProcesoActualizacionController:462 - [Fase 3] Estado de actualización: Sin Acción - Cliente
+2020-04-07 19:50:33 INFO  ProcesoActualizacionController:488 - [Fase 4] Estado de Servicio: Iniciado - PrintManager
+2020-04-07 19:50:33 INFO  ProcesoActualizacionController:509 - [Fase 4] Estado de Servicio: Iniciado - Servidor POS
+2020-04-07 19:50:33 INFO  ProcesoActualizacionController:530 - [Fase 4] Estado de Servicio: Iniciado - Base de Datos
+2020-04-07 19:50:34 INFO  ProcesoActualizacionController:547 - [Fase 4] Estado de Servicio: Sin Acción - Cliente
+2020-04-07 19:51:11 INFO  Main:115 - Fin del Actualizador - ePos
+2020-04-07 19:52:38 INFO  Main:36 - Inicio del Actualizador - ePos
+2020-04-07 19:52:39 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:52:39 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:52:39 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:52:41 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:52:41 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:52:41 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:52:41 INFO  InicioAsistenteActualizacionController:116 - Versión del Instalador: 2.0.0.1
+2020-04-07 19:52:41 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:52:41 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:52:41 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:52:41 INFO  InicioAsistenteActualizacionController:117 - Versión del Actualizador: 2.0.13.8
+2020-04-07 19:52:42 INFO  RelacionComponenteController:83 - ubicacion Actualizador PrintManager: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Plugin_Rep_Impresa
+2020-04-07 19:52:42 INFO  RelacionComponenteController:84 - ubicacion Actualizador Servidor POS: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor
+2020-04-07 19:52:42 INFO  RelacionComponenteController:85 - ubicacion Actualizador Base de Datos: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_BD
+2020-04-07 19:52:42 INFO  RelacionComponenteController:86 - ubicacion Actualizador Cliente: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Cliente
+2020-04-07 19:52:42 INFO  RelacionComponenteController:93 - ubicacion Instalador PrintManager: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\REPRESENTACION-IMPRESA
+2020-04-07 19:52:42 INFO  RelacionComponenteController:94 - ubicacion Instalador Servidor POS: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\SERVIDOR
+2020-04-07 19:52:42 INFO  RelacionComponenteController:95 - ubicacion Instalador Base de Datos: C:\Users\dperez\Desktop\ePos_V-2.0.8.0\Instalador\instalacion-componentes\DATABASE
+2020-04-07 19:52:42 INFO  RelacionComponenteController:96 - ubicacion Instalador Cliente: No existe SrvWinFE_POS_Modulo_Cliente
+2020-04-07 19:52:42 INFO  RelacionComponenteController:103 - Estado Servicio PrintManager: Iniciado
+2020-04-07 19:52:42 INFO  RelacionComponenteController:104 - Estado Servicio Servidor POS: Detenido
+2020-04-07 19:52:42 INFO  RelacionComponenteController:105 - Estado Servicio Base de Datos: Iniciado
+2020-04-07 19:52:42 INFO  RelacionComponenteController:106 - Estado Servicio Cliente: No Existe
+2020-04-07 19:52:48 INFO  ProcesoActualizacionController:567 - Proceso de Actualizacion:  
+2020-04-07 19:52:51 INFO  ProcesoActualizacionController:215 - [Fase 1] Estado de Servicio: Detenido(-1) - PrintManager 
+2020-04-07 19:52:51 INFO  ProcesoActualizacionController:241 - [Fase 1] Estado de Servicio: Detenido(-1) - Servidor POS 
+2020-04-07 19:52:54 INFO  ProcesoActualizacionController:267 - [Fase 1] Estado de Servicio: Detenido(-1) - Base de Datos
+2020-04-07 19:52:54 INFO  ProcesoActualizacionController:297 - [Fase 1] Estado de Servicio: No Existe(-2) - Cliente
+2020-04-07 19:52:54 INFO  ProcesoActualizacionController:318 - [Fase 2] Estado de Backup: Terminado - PrintManager
+2020-04-07 19:52:54 INFO  ProcesoActualizacionController:339 - [Fase 2] Estado de Backup: Terminado - Servidor POS
+2020-04-07 19:52:55 INFO  ProcesoActualizacionController:360 - [Fase 2] Estado de Backup: Terminado - Base de Datos
+2020-04-07 19:52:55 INFO  ProcesoActualizacionController:377 - [Fase 2] Estado de Backup: Sin Acción - Cliente
+2020-04-07 19:52:55 INFO  ProcesoActualizacionController:403 - [Fase 3] Estado de actualización: Terminado - PrintManager
+2020-04-07 19:52:55 INFO  ProcesoActualizacionController:424 - [Fase 3] Estado de actualización: Terminado - Servidor POS
+2020-04-07 19:52:55 INFO  ProcesoActualizacionController:445 - [Fase 3] Estado de actualización: Terminado - Base de Datos
+2020-04-07 19:52:55 INFO  ProcesoActualizacionController:462 - [Fase 3] Estado de actualización: Sin Acción - Cliente
+2020-04-07 19:53:06 INFO  ProcesoActualizacionController:488 - [Fase 4] Estado de Servicio: Iniciado - PrintManager
+2020-04-07 19:53:06 INFO  ProcesoActualizacionController:509 - [Fase 4] Estado de Servicio: Iniciado - Servidor POS
+2020-04-07 19:53:06 INFO  ProcesoActualizacionController:530 - [Fase 4] Estado de Servicio: Iniciado - Base de Datos
+2020-04-07 19:53:06 INFO  ProcesoActualizacionController:547 - [Fase 4] Estado de Servicio: Sin Acción - Cliente
+2020-04-07 19:53:09 INFO  Main:115 - Fin del Actualizador - ePos
+2020-04-07 19:53:57 INFO  Main:36 - Inicio del Actualizador - ePos
+2020-04-07 19:53:58 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:53:58 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:53:58 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:54:22 INFO  Main:36 - Inicio del Actualizador - ePos
+2020-04-07 19:54:23 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:54:23 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:54:23 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
+2020-04-07 19:54:49 INFO  Main:36 - Inicio del Actualizador - ePos
+2020-04-07 19:54:50 INFO  Utilitario:50 - [ubicacionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos
+2020-04-07 19:54:50 INFO  Utilitario:51 - [constante.RUTA_NOMBRE_TEST_IDE_RAIZ]: ActualizadorEpos
+2020-04-07 19:54:50 INFO  Utilitario:54 - [conocerRutaVersionActualizador]: D:\Deyviz Perez\Proyectos\actualizador-epos\ActualizadorEpos\Componentes\SrvWinFE_POS_Modulo_Servidor\lib\config
