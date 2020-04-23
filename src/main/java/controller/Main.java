@@ -34,9 +34,8 @@ public class Main {
         }catch (IOException e){
             logger.error("Ocurrio un error al iniciar el application.properties :",e);
         }
-
-        ActualizadorController actualizadorController = new ActualizadorController();
-        actualizadorController.run();
+        ActualizadorController actualizadorController1 = new ActualizadorController("N1");
+        ActualizadorController actualizadorController2 = new ActualizadorController("N2");
 
 
     }

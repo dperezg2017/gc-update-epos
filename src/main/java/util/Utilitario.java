@@ -1,11 +1,20 @@
 package util;
 
-import java.nio.file.Files;
-import java.nio.file.Paths;
+
+import org.apache.log4j.Logger;
+
+import java.io.File;
 
 public class Utilitario {
 
+    static Logger logger = Logger.getLogger(Utilitario.class);
+
     public static boolean existenArchivos(String directorio){
-        return Files.exists(Paths.get(directorio));
+
+        File file = new File(directorio);
+
+        boolean existe = (file.listFiles().length==0)?false:true;
+
+        return existe;
     }
 }

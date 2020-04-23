@@ -11,13 +11,30 @@ public class ActualizadorController implements Runnable {
 
     static Logger logger = Logger.getLogger(ActualizadorController.class);
 
+    Thread hilo;
+    String nombre;
+    boolean existe;
+
+    public ActualizadorController(String nombre){
+        hilo = new Thread(this,"Hilo 1");
+        this.existe=Utilitario.existenArchivos(RUTA_TEST);
+        hilo.start();
+    }
+    public void repeatActualizadorController(){
+        hilo = new Thread(this,"Hilo N");
+        this.existe=Utilitario.existenArchivos(RUTA_TEST);
+        hilo.start();
+    }
+
+
     @Override
     public void run() {
 
-        if(Utilitario.existenArchivos(RUTA_TEST)){
+        if(existe){
             logger.info("EXISTEN ARCHIVOS!!");
         }else{
-            logger.info("NO EXISTEN ARCHIVOS!!");
+            logger.error("NO EXISTEN ARCHIVOS!!");
+            repeatActualizadorController();
         }
 
     }
