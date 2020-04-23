@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>groupId</groupId>
-    <artifactId>ActualizadorEpos</artifactId>
+    <artifactId>gc-update-epos</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>actualizadorEpos</name>
-    <description>actualizadorEpos: Programa para actualizar la version del sistema POS</description>
+    <name>gc-update-epos</name>
+    <description>gc-update-epos: Programa para actualizar la version del sistema POS</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
